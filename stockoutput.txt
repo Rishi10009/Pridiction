@@ -1,0 +1,1795 @@
+F:\2-SEM\stockanalysis\output
+File is deleted : F:\2-SEM\stockanalysis\output\.part-r-00000.crc
+File is deleted : F:\2-SEM\stockanalysis\output\._SUCCESS.crc
+File is deleted : F:\2-SEM\stockanalysis\output\part-r-00000
+File is deleted : F:\2-SEM\stockanalysis\output\_SUCCESS
+Directory is deleted : F:\2-SEM\stockanalysis\output
+F:\2-SEM\stockanalysis\Output_1
+File is deleted : F:\2-SEM\stockanalysis\Output_1\.part-r-00000.crc
+File is deleted : F:\2-SEM\stockanalysis\Output_1\._SUCCESS.crc
+File is deleted : F:\2-SEM\stockanalysis\Output_1\part-r-00000
+File is deleted : F:\2-SEM\stockanalysis\Output_1\_SUCCESS
+Directory is deleted : F:\2-SEM\stockanalysis\Output_1
+F:\2-SEM\stockanalysis\Output_2
+File is deleted : F:\2-SEM\stockanalysis\Output_2\.part-r-00000.crc
+File is deleted : F:\2-SEM\stockanalysis\Output_2\._SUCCESS.crc
+File is deleted : F:\2-SEM\stockanalysis\Output_2\part-r-00000
+File is deleted : F:\2-SEM\stockanalysis\Output_2\_SUCCESS
+Directory is deleted : F:\2-SEM\stockanalysis\Output_2
+ Stock Analysis and Prediction  
+
+17/05/05 16:43:12 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+17/05/05 16:43:12 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+17/05/05 16:43:12 WARN mapred.JobClient: No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+****file:/F:/2-SEM/stockanalysis/sample
+17/05/05 16:43:12 INFO input.FileInputFormat: Total input paths to process : 15
+17/05/05 16:43:12 WARN snappy.LoadSnappy: Snappy native library not loaded
+17/05/05 16:43:12 INFO mapred.JobClient: Running job: job_local_0001
+17/05/05 16:43:12 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:12 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:12 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:12 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:12 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:12 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:12 INFO mapred.Task: Task:attempt_local_0001_m_000000_0 is done. And is in the process of commiting
+17/05/05 16:43:13 INFO mapred.JobClient:  map 0% reduce 0%
+17/05/05 16:43:15 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:15 INFO mapred.Task: Task 'attempt_local_0001_m_000000_0' done.
+17/05/05 16:43:15 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:15 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:15 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:15 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:15 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:15 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:15 INFO mapred.Task: Task:attempt_local_0001_m_000001_0 is done. And is in the process of commiting
+17/05/05 16:43:16 INFO mapred.JobClient:  map 100% reduce 0%
+17/05/05 16:43:18 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:18 INFO mapred.Task: Task 'attempt_local_0001_m_000001_0' done.
+17/05/05 16:43:18 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:18 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:18 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:18 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:18 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:18 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:18 INFO mapred.Task: Task:attempt_local_0001_m_000002_0 is done. And is in the process of commiting
+17/05/05 16:43:21 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:21 INFO mapred.Task: Task 'attempt_local_0001_m_000002_0' done.
+17/05/05 16:43:21 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:21 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:21 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:21 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:21 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:21 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:21 INFO mapred.Task: Task:attempt_local_0001_m_000003_0 is done. And is in the process of commiting
+17/05/05 16:43:24 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:24 INFO mapred.Task: Task 'attempt_local_0001_m_000003_0' done.
+17/05/05 16:43:24 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:24 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:24 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:24 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:24 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:24 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:24 INFO mapred.Task: Task:attempt_local_0001_m_000004_0 is done. And is in the process of commiting
+17/05/05 16:43:27 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:27 INFO mapred.Task: Task 'attempt_local_0001_m_000004_0' done.
+17/05/05 16:43:27 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:27 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:27 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:27 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:27 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:27 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:27 INFO mapred.Task: Task:attempt_local_0001_m_000005_0 is done. And is in the process of commiting
+17/05/05 16:43:30 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:30 INFO mapred.Task: Task 'attempt_local_0001_m_000005_0' done.
+17/05/05 16:43:30 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:30 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:30 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:30 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:30 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:30 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:30 INFO mapred.Task: Task:attempt_local_0001_m_000006_0 is done. And is in the process of commiting
+17/05/05 16:43:33 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:33 INFO mapred.Task: Task 'attempt_local_0001_m_000006_0' done.
+17/05/05 16:43:33 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:33 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:33 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:33 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:33 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:33 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:33 INFO mapred.Task: Task:attempt_local_0001_m_000007_0 is done. And is in the process of commiting
+17/05/05 16:43:36 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:36 INFO mapred.Task: Task 'attempt_local_0001_m_000007_0' done.
+17/05/05 16:43:36 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:36 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:36 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:36 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:36 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:36 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:36 INFO mapred.Task: Task:attempt_local_0001_m_000008_0 is done. And is in the process of commiting
+17/05/05 16:43:39 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:39 INFO mapred.Task: Task 'attempt_local_0001_m_000008_0' done.
+17/05/05 16:43:39 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:39 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:39 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:39 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:39 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:39 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:39 INFO mapred.Task: Task:attempt_local_0001_m_000009_0 is done. And is in the process of commiting
+17/05/05 16:43:42 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:42 INFO mapred.Task: Task 'attempt_local_0001_m_000009_0' done.
+17/05/05 16:43:42 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:42 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:42 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:42 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:42 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:42 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:42 INFO mapred.Task: Task:attempt_local_0001_m_000010_0 is done. And is in the process of commiting
+17/05/05 16:43:45 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:45 INFO mapred.Task: Task 'attempt_local_0001_m_000010_0' done.
+17/05/05 16:43:45 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:45 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:45 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:45 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:45 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:45 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:45 INFO mapred.Task: Task:attempt_local_0001_m_000011_0 is done. And is in the process of commiting
+17/05/05 16:43:48 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:48 INFO mapred.Task: Task 'attempt_local_0001_m_000011_0' done.
+17/05/05 16:43:48 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:48 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:48 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:48 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:48 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:48 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:48 INFO mapred.Task: Task:attempt_local_0001_m_000012_0 is done. And is in the process of commiting
+17/05/05 16:43:51 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:51 INFO mapred.Task: Task 'attempt_local_0001_m_000012_0' done.
+17/05/05 16:43:51 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:51 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:51 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:51 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:51 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:51 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:51 INFO mapred.Task: Task:attempt_local_0001_m_000013_0 is done. And is in the process of commiting
+17/05/05 16:43:54 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:54 INFO mapred.Task: Task 'attempt_local_0001_m_000013_0' done.
+17/05/05 16:43:54 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:54 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:43:54 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:43:54 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:43:54 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:43:54 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:43:54 INFO mapred.Task: Task:attempt_local_0001_m_000014_0 is done. And is in the process of commiting
+17/05/05 16:43:57 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:57 INFO mapred.Task: Task 'attempt_local_0001_m_000014_0' done.
+17/05/05 16:43:57 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:43:57 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:57 INFO mapred.Merger: Merging 15 sorted segments
+17/05/05 16:43:57 INFO mapred.Merger: Merging 6 intermediate segments out of a total of 15
+17/05/05 16:43:57 INFO mapred.Merger: Down to the last merge-pass, with 10 segments left of total size: 584563 bytes
+17/05/05 16:43:57 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:57 INFO mapred.Task: Task:attempt_local_0001_r_000000_0 is done. And is in the process of commiting
+17/05/05 16:43:57 INFO mapred.LocalJobRunner: 
+17/05/05 16:43:57 INFO mapred.Task: Task attempt_local_0001_r_000000_0 is allowed to commit now
+17/05/05 16:43:57 INFO output.FileOutputCommitter: Saved output of task 'attempt_local_0001_r_000000_0' to Output_1
+17/05/05 16:44:00 INFO mapred.LocalJobRunner: reduce > reduce
+17/05/05 16:44:00 INFO mapred.Task: Task 'attempt_local_0001_r_000000_0' done.
+17/05/05 16:44:01 INFO mapred.JobClient:  map 100% reduce 100%
+17/05/05 16:44:01 INFO mapred.JobClient: Job complete: job_local_0001
+17/05/05 16:44:01 INFO mapred.JobClient: Counters: 17
+17/05/05 16:44:01 INFO mapred.JobClient:   Map-Reduce Framework
+17/05/05 16:44:01 INFO mapred.JobClient:     Spilled Records=21729
+17/05/05 16:44:01 INFO mapred.JobClient:     Map output materialized bytes=584633
+17/05/05 16:44:01 INFO mapred.JobClient:     Reduce input records=9496
+17/05/05 16:44:01 INFO mapred.JobClient:     Map input records=9511
+17/05/05 16:44:01 INFO mapred.JobClient:     SPLIT_RAW_BYTES=1634
+17/05/05 16:44:01 INFO mapred.JobClient:     Map output bytes=565551
+17/05/05 16:44:01 INFO mapred.JobClient:     Reduce shuffle bytes=0
+17/05/05 16:44:01 INFO mapred.JobClient:     Reduce input groups=456
+17/05/05 16:44:01 INFO mapred.JobClient:     Combine output records=0
+17/05/05 16:44:01 INFO mapred.JobClient:     Reduce output records=456
+17/05/05 16:44:01 INFO mapred.JobClient:     Map output records=9496
+17/05/05 16:44:01 INFO mapred.JobClient:     Combine input records=0
+17/05/05 16:44:01 INFO mapred.JobClient:     Total committed heap usage (bytes)=16035348480
+17/05/05 16:44:01 INFO mapred.JobClient:   File Input Format Counters 
+17/05/05 16:44:01 INFO mapred.JobClient:     Bytes Read=452968
+17/05/05 16:44:01 INFO mapred.JobClient:   FileSystemCounters
+17/05/05 16:44:01 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=6749554
+17/05/05 16:44:01 INFO mapred.JobClient:     FILE_BYTES_READ=5627409
+17/05/05 16:44:01 INFO mapred.JobClient:   File Output Format Counters 
+17/05/05 16:44:01 INFO mapred.JobClient:     Bytes Written=15290
+17/05/05 16:44:01 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+17/05/05 16:44:01 WARN mapred.JobClient: No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+17/05/05 16:44:01 INFO input.FileInputFormat: Total input paths to process : 1
+****file:/F:/2-SEM/stockanalysis/Output_1
+17/05/05 16:44:01 INFO mapred.JobClient: Running job: job_local_0002
+17/05/05 16:44:01 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:44:01 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:44:01 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:44:01 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:44:01 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:44:01 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:44:01 INFO mapred.Task: Task:attempt_local_0002_m_000000_0 is done. And is in the process of commiting
+17/05/05 16:44:02 INFO mapred.JobClient:  map 0% reduce 0%
+17/05/05 16:44:04 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:04 INFO mapred.Task: Task 'attempt_local_0002_m_000000_0' done.
+17/05/05 16:44:04 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:44:04 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:04 INFO mapred.Merger: Merging 1 sorted segments
+17/05/05 16:44:04 INFO mapred.Merger: Down to the last merge-pass, with 1 segments left of total size: 12428 bytes
+17/05/05 16:44:04 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:04 INFO mapred.Task: Task:attempt_local_0002_r_000000_0 is done. And is in the process of commiting
+17/05/05 16:44:04 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:04 INFO mapred.Task: Task attempt_local_0002_r_000000_0 is allowed to commit now
+17/05/05 16:44:04 INFO output.FileOutputCommitter: Saved output of task 'attempt_local_0002_r_000000_0' to Output_2
+17/05/05 16:44:05 INFO mapred.JobClient:  map 100% reduce 0%
+17/05/05 16:44:07 INFO mapred.LocalJobRunner: reduce > reduce
+17/05/05 16:44:07 INFO mapred.Task: Task 'attempt_local_0002_r_000000_0' done.
+17/05/05 16:44:08 INFO mapred.JobClient:  map 100% reduce 100%
+17/05/05 16:44:08 INFO mapred.JobClient: Job complete: job_local_0002
+17/05/05 16:44:08 INFO mapred.JobClient: Counters: 18
+17/05/05 16:44:08 INFO mapred.JobClient:   Map-Reduce Framework
+17/05/05 16:44:08 INFO mapred.JobClient:     Spilled Records=912
+17/05/05 16:44:08 INFO mapred.JobClient:     Map output materialized bytes=12432
+17/05/05 16:44:08 INFO mapred.JobClient:     Reduce input records=456
+17/05/05 16:44:08 INFO mapred.JobClient:     Map input records=456
+17/05/05 16:44:08 INFO mapred.JobClient:     SPLIT_RAW_BYTES=115
+17/05/05 16:44:08 INFO mapred.JobClient:     Map output bytes=11514
+17/05/05 16:44:08 INFO mapred.JobClient:     Reduce shuffle bytes=0
+17/05/05 16:44:08 INFO mapred.JobClient:     Reduce input groups=15
+17/05/05 16:44:08 INFO mapred.JobClient:     Combine output records=0
+17/05/05 16:44:08 INFO mapred.JobClient:     Reduce output records=15
+17/05/05 16:44:08 INFO mapred.JobClient:     Map output records=456
+17/05/05 16:44:08 INFO mapred.JobClient:     Combine input records=0
+17/05/05 16:44:08 INFO mapred.JobClient:     Total committed heap usage (bytes)=3519021056
+17/05/05 16:44:08 INFO mapred.JobClient:   File Input Format Counters 
+17/05/05 16:44:08 INFO mapred.JobClient:     Bytes Read=15290
+17/05/05 16:44:08 INFO mapred.JobClient:   stockanalsysismapreduce.Mapper_Reducer2$Counterv
+17/05/05 16:44:08 INFO mapred.JobClient:     TEST=15
+17/05/05 16:44:08 INFO mapred.JobClient:   FileSystemCounters
+17/05/05 16:44:08 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=1672067
+17/05/05 16:44:08 INFO mapred.JobClient:     FILE_BYTES_READ=2468636
+17/05/05 16:44:08 INFO mapred.JobClient:   File Output Format Counters 
+17/05/05 16:44:08 INFO mapred.JobClient:     Bytes Written=383
+17/05/05 16:44:08 WARN mapred.JobClient: Use GenericOptionsParser for parsing the arguments. Applications should implement Tool for the same.
+17/05/05 16:44:08 WARN mapred.JobClient: No job jar file set.  User classes may not be found. See JobConf(Class) or JobConf#setJar(String).
+****file:/F:/2-SEM/stockanalysis/Output_2
+17/05/05 16:44:08 INFO input.FileInputFormat: Total input paths to process : 1
+17/05/05 16:44:08 INFO mapred.JobClient: Running job: job_local_0003
+17/05/05 16:44:08 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:44:08 INFO mapred.MapTask: io.sort.mb = 100
+17/05/05 16:44:08 INFO mapred.MapTask: data buffer = 79691776/99614720
+17/05/05 16:44:08 INFO mapred.MapTask: record buffer = 262144/327680
+17/05/05 16:44:08 INFO mapred.MapTask: Starting flush of map output
+17/05/05 16:44:08 INFO mapred.MapTask: Finished spill 0
+17/05/05 16:44:08 INFO mapred.Task: Task:attempt_local_0003_m_000000_0 is done. And is in the process of commiting
+17/05/05 16:44:09 INFO mapred.JobClient:  map 0% reduce 0%
+17/05/05 16:44:11 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:11 INFO mapred.Task: Task 'attempt_local_0003_m_000000_0' done.
+17/05/05 16:44:11 INFO mapred.Task:  Using ResourceCalculatorPlugin : null
+17/05/05 16:44:11 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:11 INFO mapred.Merger: Merging 1 sorted segments
+17/05/05 16:44:11 INFO mapred.Merger: Down to the last merge-pass, with 1 segments left of total size: 226 bytes
+17/05/05 16:44:11 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:11 INFO mapred.Task: Task:attempt_local_0003_r_000000_0 is done. And is in the process of commiting
+17/05/05 16:44:11 INFO mapred.LocalJobRunner: 
+17/05/05 16:44:11 INFO mapred.Task: Task attempt_local_0003_r_000000_0 is allowed to commit now
+17/05/05 16:44:11 INFO output.FileOutputCommitter: Saved output of task 'attempt_local_0003_r_000000_0' to F:/2-SEM/stockanalysis/output
+17/05/05 16:44:12 INFO mapred.JobClient:  map 100% reduce 0%
+17/05/05 16:44:14 INFO mapred.LocalJobRunner: reduce > reduce
+17/05/05 16:44:14 INFO mapred.Task: Task 'attempt_local_0003_r_000000_0' done.
+17/05/05 16:44:15 INFO mapred.JobClient:  map 100% reduce 100%
+17/05/05 16:44:15 INFO mapred.JobClient: Job complete: job_local_0003
+17/05/05 16:44:15 INFO mapred.JobClient: Counters: 17
+17/05/05 16:44:15 INFO mapred.JobClient:   Map-Reduce Framework
+17/05/05 16:44:15 INFO mapred.JobClient:     Spilled Records=30
+17/05/05 16:44:15 INFO mapred.JobClient:     Map output materialized bytes=230
+17/05/05 16:44:15 INFO mapred.JobClient:     Reduce input records=15
+17/05/05 16:44:15 INFO mapred.JobClient:     Map input records=15
+17/05/05 16:44:15 INFO mapred.JobClient:     SPLIT_RAW_BYTES=115
+17/05/05 16:44:15 INFO mapred.JobClient:     Map output bytes=194
+17/05/05 16:44:15 INFO mapred.JobClient:     Reduce shuffle bytes=0
+17/05/05 16:44:15 INFO mapred.JobClient:     Reduce input groups=15
+17/05/05 16:44:15 INFO mapred.JobClient:     Combine output records=0
+17/05/05 16:44:15 INFO mapred.JobClient:     Reduce output records=22
+17/05/05 16:44:15 INFO mapred.JobClient:     Map output records=15
+17/05/05 16:44:15 INFO mapred.JobClient:     Combine input records=0
+17/05/05 16:44:15 INFO mapred.JobClient:     Total committed heap usage (bytes)=3719299072
+17/05/05 16:44:15 INFO mapred.JobClient:   File Input Format Counters 
+17/05/05 16:44:15 INFO mapred.JobClient:     Bytes Read=383
+17/05/05 16:44:15 INFO mapred.JobClient:   FileSystemCounters
+17/05/05 16:44:15 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=1737693
+17/05/05 16:44:15 INFO mapred.JobClient:     FILE_BYTES_READ=2482406
+17/05/05 16:44:15 INFO mapred.JobClient:   File Output Format Counters 
+17/05/05 16:44:15 INFO mapred.JobClient:     Bytes Written=595
+
+Job took 63seconds
+
+Starting Bayesian Classifier on the Stocks
+*************************************************
+Copying Files to perform prediction
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAXJ.csv
+Actual values of the stocks :--60.93
+Actual values of the stocks :--60.67
+Actual values of the stocks :--60.95
+Actual values of the stocks :--61.02
+Actual values of the stocks :--60.37
+Actual values of the stocks :--60.26
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Working on predictor 
+61.82666906117916
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAXJ.csv:-30 is: 
+61.49
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAXJ.csv :- 30 is: 
+61.82666906117916
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAIT.csv
+Actual values of the stocks :--60.67
+Actual values of the stocks :--60.95
+Actual values of the stocks :--61.02
+Actual values of the stocks :--60.37
+Actual values of the stocks :--60.26
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Working on predictor 
+61.74587221283567
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAIT.csv:-30 is: 
+61.56
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAIT.csv :- 30 is: 
+61.74587221283567
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAME.csv
+Actual values of the stocks :--60.95
+Actual values of the stocks :--61.02
+Actual values of the stocks :--60.37
+Actual values of the stocks :--60.26
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Working on predictor 
+61.71689595437481
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAME.csv:-30 is: 
+62.16
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAME.csv :- 30 is: 
+61.71689595437481
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAPL.csv
+Actual values of the stocks :--61.02
+Actual values of the stocks :--60.37
+Actual values of the stocks :--60.26
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Working on predictor 
+61.70083276221452
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAPL.csv:-30 is: 
+61.81
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAPL.csv :- 30 is: 
+61.70083276221452
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABAX.csv
+Actual values of the stocks :--60.37
+Actual values of the stocks :--60.26
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Working on predictor 
+61.78324453160523
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABAX.csv:-30 is: 
+61.61
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABAX.csv :- 30 is: 
+61.78324453160523
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAON.csv
+Actual values of the stocks :--60.26
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Working on predictor 
+61.79582558272307
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAON.csv:-30 is: 
+61.71
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAON.csv :- 30 is: 
+61.79582558272307
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAON.csv
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Working on predictor 
+61.772616873170215
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAON.csv:-30 is: 
+61.72
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAON.csv :- 30 is: 
+61.772616873170215
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABCB.csv
+Actual values of the stocks :--60.14
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Working on predictor 
+61.767870769960716
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABCB.csv:-30 is: 
+61.46
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABCB.csv :- 30 is: 
+61.767870769960716
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABCB.csv
+Actual values of the stocks :--59.83
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Working on predictor 
+61.76477923114898
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABCB.csv:-30 is: 
+61.3
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABCB.csv :- 30 is: 
+61.76477923114898
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABCO.csv
+Actual values of the stocks :--59.34
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Working on predictor 
+61.719217783327174
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABCO.csv:-30 is: 
+61.52
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABCO.csv :- 30 is: 
+61.719217783327174
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABCO.csv
+Actual values of the stocks :--58.67
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Working on predictor 
+61.653518894071965
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABCO.csv:-30 is: 
+61.91
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABCO.csv :- 30 is: 
+61.653518894071965
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABCW.csv
+Actual values of the stocks :--58.96
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Working on predictor 
+61.632929605634615
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABCW.csv:-30 is: 
+61.89
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABCW.csv :- 30 is: 
+61.632929605634615
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABCW.csv
+Actual values of the stocks :--59.37
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Working on predictor 
+61.679513461543316
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABCW.csv:-30 is: 
+62.27
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABCW.csv :- 30 is: 
+61.679513461543316
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAWW.csv
+Actual values of the stocks :--60.24
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Actual values of the stocks :--61.95
+Working on predictor 
+61.71717930492623
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAWW.csv:-30 is: 
+61.95
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAWW.csv :- 30 is: 
+61.71717930492623
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAWW.csv
+Actual values of the stocks :--60.15
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Actual values of the stocks :--61.95
+Actual values of the stocks :--61.64
+Working on predictor 
+61.812370798572125
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAWW.csv:-30 is: 
+61.64
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAWW.csv :- 30 is: 
+61.812370798572125
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAVL.csv
+Actual values of the stocks :--60.83
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Actual values of the stocks :--61.95
+Actual values of the stocks :--61.64
+Actual values of the stocks :--61.50
+Working on predictor 
+61.84255490422902
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAVL.csv:-30 is: 
+61.5
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAVL.csv :- 30 is: 
+61.84255490422902
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABCD.csv
+Actual values of the stocks :--61.54
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Actual values of the stocks :--61.95
+Actual values of the stocks :--61.64
+Actual values of the stocks :--61.50
+Actual values of the stocks :--60.53
+Working on predictor 
+61.817734255326734
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABCD.csv:-30 is: 
+60.53
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABCD.csv :- 30 is: 
+61.817734255326734
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAL.csv
+Actual values of the stocks :--62.15
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Actual values of the stocks :--61.95
+Actual values of the stocks :--61.64
+Actual values of the stocks :--61.50
+Actual values of the stocks :--60.53
+Actual values of the stocks :--60.88
+Working on predictor 
+61.77303308537571
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAL.csv:-30 is: 
+60.88
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAL.csv :- 30 is: 
+61.77303308537571
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\ABAC.csv
+Actual values of the stocks :--62.06
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Actual values of the stocks :--61.95
+Actual values of the stocks :--61.64
+Actual values of the stocks :--61.50
+Actual values of the stocks :--60.53
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.82
+Working on predictor 
+61.57541144779156
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\ABAC.csv:-30 is: 
+60.82
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\ABAC.csv :- 30 is: 
+61.57541144779156
+Match found between the files and top stocks found
+PATHF:\2-SEM\stockanalysis\predfiles\AAOI.csv
+Actual values of the stocks :--61.68
+Actual values of the stocks :--61.65
+Actual values of the stocks :--61.27
+Actual values of the stocks :--62.27
+Actual values of the stocks :--62.82
+Actual values of the stocks :--61.96
+Actual values of the stocks :--62.16
+Actual values of the stocks :--62.33
+Actual values of the stocks :--61.08
+Actual values of the stocks :--61.22
+Actual values of the stocks :--61.49
+Actual values of the stocks :--61.56
+Actual values of the stocks :--62.16
+Actual values of the stocks :--61.81
+Actual values of the stocks :--61.61
+Actual values of the stocks :--61.71
+Actual values of the stocks :--61.72
+Actual values of the stocks :--61.46
+Actual values of the stocks :--61.30
+Actual values of the stocks :--61.52
+Actual values of the stocks :--61.91
+Actual values of the stocks :--61.89
+Actual values of the stocks :--62.27
+Actual values of the stocks :--61.95
+Actual values of the stocks :--61.64
+Actual values of the stocks :--61.50
+Actual values of the stocks :--60.53
+Actual values of the stocks :--60.88
+Actual values of the stocks :--60.82
+Actual values of the stocks :--60.58
+Working on predictor 
+61.46175489759131
+Prediction of the stocks
+****************************************************************
+The actual price  for the stock  F:\2-SEM\stockanalysis\predfiles\AAOI.csv:-30 is: 
+60.58
+The predicted price for the stock is F:\2-SEM\stockanalysis\predfiles\AAOI.csv :- 30 is: 
+61.46175489759131
+final value[AAXJ, AAIT, AAME, AAPL, ABAX, AAON, AAON, ABCB, ABCB, ABCO, ABCO, ABCW, ABCW, AAWW, AAWW, AAVL, ABCD, AAL, ABAC, AAOI]
+twitter analysisAAXJ
+Query to be searched AAXJ
+Tweet: Customized research for $APBL vs. $AAXJ! https://t.co/uTXWddLSf6
+User: specstockscom
+Sentiment: pos
+Tweet: Customized research for $AMTCP vs. $AAXJ! https://t.co/Z7eco6qmP9
+User: specstockscom
+Sentiment: pos
+Tweet: Customized research for $AMBCF vs. $AAXJ! https://t.co/UbG5JgpfuM
+User: specstockscom
+Sentiment: pos
+Tweet: Customized research for $AFCL vs. $AAXJ! https://t.co/d8N7V1hxJv
+User: specstockscom
+Sentiment: pos
+Tweet: Estimating Activist Ownership In CEFs Targeted By London https://t.co/1d7E02yIpc $AAXJ $ABE $EEMS $EIDO $EWT $EWW $EWY $FXI $GCH $GRR $IF
+User: sarvarbhat
+Sentiment: pos
+Tweet: Estimating Activist Ownership In CEFs Targeted By London https://t.co/2S9R1D52hZ #AAXJ #ABE #EEMS https://t.co/axGMeeWMI2
+User: InfoDividend
+Sentiment: pos
+Tweet: Estimating Activist Ownership In CEFs Targeted By London $AAXJ $ABE $EEMS $EIDO $EWT $EWW $EWY…… https://t.co/4sPTbAqTpQ
+User: AlertTrade
+Sentiment: pos
+Tweet: Estimating Activist Ownership In CEFs Targeted By London https://t.co/Iwup2hZeDX $AAXJ $ABE $EEMS $EIDO $EWT $EWW $EWY $FXI $GCH $GRR $IF
+User: SEEKINGALPHA_FS
+Sentiment: pos
+Tweet: Estimating Activist Ownership In CEFs Targeted By London https://t.co/My1SawnID5 $AAXJ $ABE $EEMS $EIDO $EWT $EWW $EWY $FXI $GCH $GRR $IF
+User: SeekingAlpha
+Sentiment: pos
+Tweet: RT @TalkMarkets: Market Talk- Wednesday, May 3 $BUND $AAXJ $DJI $DAX https://t.co/utlM79VqDP
+User: diggingplatinum
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisAAIT
+Query to be searched AAIT
+Tweet: NDC 2020: Mahama Is My Brother, Haruna Is My Friend, But Let’s Aait And See https://t.co/qKZmAovRgc
+User: ghanamma
+Sentiment: pos
+Tweet: Congratulations, Penn State Class of 2017! https://t.co/lzRb9co1BY
+User: AAIT
+Sentiment: pos
+Tweet: NDC 2020: Mahama Is My Brother, Haruna Is My Friend, But Let’s Aait And See https://t.co/DIf60MblaO https://t.co/7ijtyqlS6j
+User: ghanaguru_com
+Sentiment: pos
+Tweet: NDC 2020: Mahama Is My Brother, Haruna Is My Friend, But Let’s Aait And See https://t.co/QBiyFmIPGO https://t.co/IDmN5cwVGv
+User: TNGhana
+Sentiment: pos
+Tweet: NDC 2020: Mahama Is My Brother, Haruna Is My Friend, But Let's Aait And See -... https://t.co/aEFXZVUjNJ
+User: DailyGuideGH
+Sentiment: pos
+Tweet: NDC 2020: Mahama Is My Brother, Haruna Is My Friend, But Let's Aait And See -  https://t.co/UHk98k1vhR https://t.co/x4nOoYMee9
+User: DailyGuideGH
+Sentiment: pos
+Tweet: @SelectedIndia #SELECTEDHommeMumbai That's a great collection. Cant aait to check it out @PalladiumMum
+User: sinfullysweet
+Sentiment: pos
+Tweet: Fun Fact Friday https://t.co/2m8UmxDG8B
+User: AAIT
+Sentiment: pos
+Tweet: AAIT I DIDN'T SEE T IS https://t.co/5L9SLwdZtT
+User: got7ism
+Sentiment: neg
+Tweet: IT WAS SO WORTH THE AAIT BITCH THIS SEASON IS GONNA BW SO GOOD IM FUCKING SHOOKXOH MY GOS I CANT
+User: jordanabrewstr
+Sentiment: neg
+The number of Positive tweets 8
+The number of Negative tweets 2
+twitter analysisAAME
+Query to be searched AAME
+Tweet: .@MxJackMonroe and they ALL always appropriate AAME slang in the most transparent, milquetoast way possible https://t.co/1ICkhXDdmS
+User: Crass__Effect
+Sentiment: pos
+Tweet: @vijayrupanibjp @jitu_vaghani @Nitinbhai_Patel @bjpdilippatel @Pankajbhaidesai @devusinh @CMOGuj ??Aame pn bjp na j… https://t.co/86NFxgFWg0
+User: Ketul27271
+Sentiment: pos
+Tweet: @yoojvngc @pinnkbear It wont have te aame feeling - the saddnes and desperation IOI had. No song can be sung the same by another singer
+User: ChoiYooJungFan
+Sentiment: pos
+Tweet: And this is from 2015, 2017 still aame old problems and even worse https://t.co/zCFG502Yxi
+User: Wisemanmawaza
+Sentiment: pos
+Tweet: CAN MY MOM USE THE APP WITH THE AAME LINK AND CODE ANS TRT TOG ER THEM WITH ME
+User: onlycurIs
+Sentiment: pos
+Tweet: Stocks near strong Wedge pattern: $TGI, $MITL, $AAME, $PFPT
+User: CyborgQuant
+Sentiment: pos
+Tweet: Atlantic American $AAME Earns Daily Media Impact Rating of 0.04 https://t.co/yVy7VjkNSH
+User: dailypoliticaln
+Sentiment: pos
+Tweet: MakeAVoice Radio: Now playing "Montasser Aame - Samara"
+TuneIn Player @ https://t.co/dXfYtbEyXu
+User: MoustafaAmar_
+Sentiment: pos
+Tweet: @inkshipharry WERE GOING TO THE AAME CONVERT
+User: 5friesofHarry
+Sentiment: pos
+Tweet: Just bought exactly the aame @saucony monochrome kicks to match my pantone bomber jacket from Bershka… https://t.co/I6BGPu1OKk
+User: arjonism
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisAAPL
+Query to be searched AAPL
+Tweet: Q4 2017 EPS Estimates for Apple Inc. Cut by William Blair $AAPL https://t.co/XGznFZ07bg
+User: emq_news
+Sentiment: pos
+Tweet: Q4 2017 EPS Estimates for Apple Inc. Cut by William Blair $AAPL https://t.co/qXyVUfU3Kp
+User: TickerReport
+Sentiment: pos
+Tweet: Oppenheimer Holdings Comments on Apple Inc.’s Q4 2017 Earnings $AAPL https://t.co/ZsOI0huXKQ
+User: emq_news
+Sentiment: pos
+Tweet: Oppenheimer Holdings Comments on Apple Inc.’s Q4 2017 Earnings $AAPL https://t.co/8VvxXyo8i9
+User: TickerReport
+Sentiment: pos
+Tweet: RT @mckeevjm: And people wonder why we are in a bull market.  Don't let pessimism bring you down! #optimism #perserverance $DJI $QQQ $SPY $…
+User: diggingplatinum
+Sentiment: pos
+Tweet: RT @jewalker_nuke: Positions (5/5/17) High/Low $CELG $BA $AMZN $GOOGL $GM $AVGO $OLED $AAPL $FB $MCD $VRTX $CVX $IBM $RTN $NFLX $T (ATT) $W…
+User: diggingplatinum
+Sentiment: pos
+Tweet: Big #drop in @IBM #shares following large shedding of shares by major #investor. Lucinda Shen https://t.co/lngCINA70J
+User: inaplex
+Sentiment: pos
+Tweet: RT @YahooFinance: Today's charts: Buffett cuts $IBM stake; Citi says $AAPL could buy $NFLX; Bezos dumps  $AMZN shares https://t.co/0KwS0sJY…
+User: raffaelemedugno
+Sentiment: pos
+Tweet: Oppenheimer Holdings Comments on Apple Inc.’s Q4 2017 Earnings $AAPL https://t.co/oG6UEIXqZ5 #stocks
+User: thelegacynewswi
+Sentiment: pos
+Tweet: Q4 2017 EPS Estimates for Apple Inc. Cut by William Blair $AAPL https://t.co/XUiDgj1sOm #stocks
+User: thelegacynewswi
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABAX
+Query to be searched ABAX
+Tweet: RT @MSI_Global: MSI's CEO, Tim Wilson, visited our African members Bloomfield Law Practice (pictured) & Abax - OOSA Professionals. https://…
+User: AILFN_Tweets
+Sentiment: pos
+Tweet: Abaxis Inc $ABAX Rating Lowered to Sell at Zacks Investment Research https://t.co/mwNY6zoBAc
+User: midetimes
+Sentiment: pos
+Tweet: MSI's CEO, Tim Wilson, visited our African members Bloomfield Law Practice (pictured) & Abax - OOSA Professionals.… https://t.co/U3NV7UyJX4
+User: MSI_Global
+Sentiment: pos
+Tweet: RT @ABAXUK: On 10th May, ABAX look forward to attending @theFleetShow. Find us on stand B13...https://t.co/7avChObQo4 https://t.co/NN8XiLXI…
+User: theFleetShow
+Sentiment: pos
+Tweet: $ABAX:
+
+New Insider Filing on
+
+VP-Sales & Mktg, Animal Health
+
+CRAIG TOCKMAN:
+
+https://t.co/IPqwwDrjvt
+User: InsiderAlertsIA
+Sentiment: pos
+Tweet: ABAX Poland - RESOURCER POSITION - offer for students #poland #bhivelabs https://t.co/vnbGlv6kV1
+User: PolandBloggerr
+Sentiment: pos
+Tweet: RT @bebhelgeland: I have a great news to share!
+ABAX just won the excellent solution award in ITS Asia Intertraffic China expo.  
+Super pro…
+User: MirjamAdriaanse
+Sentiment: pos
+Tweet: Short Interest in Abaxis Inc $ABAX Rises By 2.8% https://t.co/NawlFx4xjJ
+User: storminvestor
+Sentiment: pos
+Tweet: RT @bebhelgeland: I have a great news to share!
+ABAX just won the excellent solution award in ITS Asia Intertraffic China expo.  
+Super pro…
+User: Drugge10
+Sentiment: pos
+Tweet: Fantastic news for ABAX China?
+Today we won the Excellent Solution award at the ITS Asia Intertraffic China expo in… https://t.co/pGDtjv3FPa
+User: ABAXUK
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisAAON
+Query to be searched AAON
+Tweet: Single point mutation from Valine to Methionine in the BDNF protein chain related to Alzheimers disease. https://t.co/6y0vJyXH5e
+User: ArasiboC
+Sentiment: pos
+Tweet: AAON, Inc. (AAON) price at close, May 05, 2017, is 36.3. @MarketObs is always looking for advantages https://t.co/SagkVeY63s
+User: MarketObs
+Sentiment: pos
+Tweet: Earnings release roundup: AAON, WPX, LPI, OGS, ARLP https://t.co/VeGdjNbeH7 via @casey_garrison https://t.co/vy388CB2eH
+User: TulsaWorldBiz
+Sentiment: pos
+Tweet: RT @HilariousRoasts: When your teacher won't round your 39% up to an A. https://t.co/rc973AjXVb
+User: lil_aaon
+Sentiment: pos
+Tweet: RT @TakingFiveHQ: this is my favorite video ever https://t.co/0MoG1ec3HK
+User: lil_aaon
+Sentiment: pos
+Tweet: Happy #cincodemayo and #revengeofthefifth ????? #EmmaAndWyatt ?? https://t.co/xifbvaM9KE
+User: Magnumatic
+Sentiment: pos
+Tweet: Somewhat Negative News Coverage Likely to Affect AAON $AAON Share Price https://t.co/c7YhEOpWxf
+User: IRAMarketReport
+Sentiment: pos
+Tweet: Half an hour to go ???? #Makhna #GurdasMaan #ShwetaTiwari #RSwami (director) @gurdasmaan 7pm chetti aaon hun wait n… https://t.co/sm9hjhxBAj
+User: GMconcerts
+Sentiment: pos
+Tweet: Aaon earnings drop for quarter #Oklahoma https://t.co/0VhcsZlpqo
+User: OklahomaUS_nws
+Sentiment: pos
+Tweet: Aaon earnings drop for quarter https://t.co/WbpQhxfSlt
+User: OKSmallBiz
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisAAON
+Query to be searched AAON
+Tweet: Single point mutation from Valine to Methionine in the BDNF protein chain related to Alzheimers disease. https://t.co/6y0vJyXH5e
+User: ArasiboC
+Sentiment: pos
+Tweet: AAON, Inc. (AAON) price at close, May 05, 2017, is 36.3. @MarketObs is always looking for advantages https://t.co/SagkVeY63s
+User: MarketObs
+Sentiment: pos
+Tweet: Earnings release roundup: AAON, WPX, LPI, OGS, ARLP https://t.co/VeGdjNbeH7 via @casey_garrison https://t.co/vy388CB2eH
+User: TulsaWorldBiz
+Sentiment: pos
+Tweet: RT @HilariousRoasts: When your teacher won't round your 39% up to an A. https://t.co/rc973AjXVb
+User: lil_aaon
+Sentiment: pos
+Tweet: RT @TakingFiveHQ: this is my favorite video ever https://t.co/0MoG1ec3HK
+User: lil_aaon
+Sentiment: pos
+Tweet: Happy #cincodemayo and #revengeofthefifth ????? #EmmaAndWyatt ?? https://t.co/xifbvaM9KE
+User: Magnumatic
+Sentiment: pos
+Tweet: Somewhat Negative News Coverage Likely to Affect AAON $AAON Share Price https://t.co/c7YhEOpWxf
+User: IRAMarketReport
+Sentiment: pos
+Tweet: Half an hour to go ???? #Makhna #GurdasMaan #ShwetaTiwari #RSwami (director) @gurdasmaan 7pm chetti aaon hun wait n… https://t.co/sm9hjhxBAj
+User: GMconcerts
+Sentiment: pos
+Tweet: Aaon earnings drop for quarter #Oklahoma https://t.co/0VhcsZlpqo
+User: OklahomaUS_nws
+Sentiment: pos
+Tweet: Aaon earnings drop for quarter https://t.co/WbpQhxfSlt
+User: OKSmallBiz
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABCB
+Query to be searched ABCB
+Tweet: An overview of it all. - https://t.co/9kQIeyceKI
+User: tatzanx
+Sentiment: pos
+Tweet: RT @1manvhorse: #manvhorse big shout out 2 @ArmaghI @ArmaghLover @ulstergazette @abcb_council for the RTs. Together we can make a differenc…
+User: seanog2012
+Sentiment: pos
+Tweet: #manvhorse big shout out 2 @ArmaghI @ArmaghLover @ulstergazette @abcb_council for the RTs. Together we can make a d… https://t.co/oFBCHYmqlr
+User: 1manvhorse
+Sentiment: pos
+Tweet: RT @SportNINet: Some great discussion and feedback at the Mental Health and Wellbeing in Sport consultation @abcb_council @UlsterSchSport @…
+User: HOSPORTY
+Sentiment: pos
+Tweet: RT @SportNINet: John News discussing the importance of Community Planning for @abcb_council #ConnectedABC https://t.co/qXkYdcTrr4
+User: HOSPORTY
+Sentiment: pos
+Tweet: RT @SportNINet: Ready to go at the launch of @abcb_council Community Plan #Connected https://t.co/shRZ9ndjwH
+User: HOSPORTY
+Sentiment: pos
+Tweet: Congress is threatening to cut bird conservation funding. Tell you Sens and US Rep to defend key bird protections: https://t.co/7EmrVBzw1M
+User: MGrefe99
+Sentiment: pos
+Tweet: 2017-05-04 [Ameris Bancorp] EDWARDS JON S #ABCB #InsiderTrading #SEC #insidertrade https://t.co/WEa4i8BoDX
+User: SecGemsCast
+Sentiment: pos
+Tweet: RT @Ireland_Aerial: Armagh This Evening - Let the sunshine continue! @ArmaghI @barrabest @WeatherCee @newslineweather @abcb_council @angie_…
+User: nikolaihart
+Sentiment: pos
+Tweet: Ameris Bancorp $ABCB EVP Jon S. Edwards Sells 13,033 Shares https://t.co/yKaUq67pD2
+User: SPNewsAnalysis
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABCB
+Query to be searched ABCB
+Tweet: An overview of it all. - https://t.co/9kQIeyceKI
+User: tatzanx
+Sentiment: pos
+Tweet: RT @1manvhorse: #manvhorse big shout out 2 @ArmaghI @ArmaghLover @ulstergazette @abcb_council for the RTs. Together we can make a differenc…
+User: seanog2012
+Sentiment: pos
+Tweet: #manvhorse big shout out 2 @ArmaghI @ArmaghLover @ulstergazette @abcb_council for the RTs. Together we can make a d… https://t.co/oFBCHYmqlr
+User: 1manvhorse
+Sentiment: pos
+Tweet: RT @SportNINet: Some great discussion and feedback at the Mental Health and Wellbeing in Sport consultation @abcb_council @UlsterSchSport @…
+User: HOSPORTY
+Sentiment: pos
+Tweet: RT @SportNINet: John News discussing the importance of Community Planning for @abcb_council #ConnectedABC https://t.co/qXkYdcTrr4
+User: HOSPORTY
+Sentiment: pos
+Tweet: RT @SportNINet: Ready to go at the launch of @abcb_council Community Plan #Connected https://t.co/shRZ9ndjwH
+User: HOSPORTY
+Sentiment: pos
+Tweet: Congress is threatening to cut bird conservation funding. Tell you Sens and US Rep to defend key bird protections: https://t.co/7EmrVBzw1M
+User: MGrefe99
+Sentiment: pos
+Tweet: 2017-05-04 [Ameris Bancorp] EDWARDS JON S #ABCB #InsiderTrading #SEC #insidertrade https://t.co/WEa4i8BoDX
+User: SecGemsCast
+Sentiment: pos
+Tweet: RT @Ireland_Aerial: Armagh This Evening - Let the sunshine continue! @ArmaghI @barrabest @WeatherCee @newslineweather @abcb_council @angie_…
+User: nikolaihart
+Sentiment: pos
+Tweet: Ameris Bancorp $ABCB EVP Jon S. Edwards Sells 13,033 Shares https://t.co/yKaUq67pD2
+User: SPNewsAnalysis
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABCO
+Query to be searched ABCO
+Tweet: Wilmington, #NC - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABC... https://t.co/QKLKzui8o1 #WILMINGTON #DRIVING #JOB
+User: WilmingtonNCJob
+Sentiment: pos
+Tweet: Boston, #MA - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Transp... https://t.co/mTa1qR2mvw #DRIVING #JOB #BOSTON
+User: jobs_in_boston
+Sentiment: pos
+Tweet: Atlanta, #GA - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Tran... https://t.co/2ehdOr7muU #DRIVING #ATLANTA #JOB
+User: jobs__atlanta
+Sentiment: pos
+Tweet: https://t.co/8G1VzryNFO updates Advisory Board https://t.co/FuNgYZjHoB price 49.60 to 51.45 #HealthCare
+User: socialcss_dow
+Sentiment: pos
+Tweet: The Advisory Board Company $ABCO Issues  Earnings Results https://t.co/oRU4yggmXu
+User: intercooleronli
+Sentiment: pos
+Tweet: The Advisory Board Company $ABCO Issues  Earnings Results https://t.co/Uojdyfi0Cf
+User: AmericanBanking
+Sentiment: pos
+Tweet: The Advisory Board Company $ABCO Issues Earnings Results https://t.co/Pv8gKjvLMU
+User: midetimes
+Sentiment: pos
+Tweet: Insider Selling: The Advisory Board Company $ABCO Insider Sells 750 Shares of Stock https://t.co/l9C2xRDOaC
+User: CFinancialNews
+Sentiment: pos
+Tweet: Lowell, #MA - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Transp... https://t.co/cHcFGusfZ4 #LOWELL #DRIVING #JOB
+User: JobsLowellMA
+Sentiment: pos
+Tweet: Columbus, #OH - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Tr... https://t.co/M0gJBr0qQy #DRIVING #COLUMBUS #JOB
+User: jobs__columbus
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABCO
+Query to be searched ABCO
+Tweet: Wilmington, #NC - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABC... https://t.co/QKLKzui8o1 #WILMINGTON #DRIVING #JOB
+User: WilmingtonNCJob
+Sentiment: pos
+Tweet: Boston, #MA - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Transp... https://t.co/mTa1qR2mvw #DRIVING #JOB #BOSTON
+User: jobs_in_boston
+Sentiment: pos
+Tweet: Atlanta, #GA - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Tran... https://t.co/2ehdOr7muU #DRIVING #ATLANTA #JOB
+User: jobs__atlanta
+Sentiment: pos
+Tweet: https://t.co/8G1VzryNFO updates Advisory Board https://t.co/FuNgYZjHoB price 49.60 to 51.45 #HealthCare
+User: socialcss_dow
+Sentiment: pos
+Tweet: The Advisory Board Company $ABCO Issues  Earnings Results https://t.co/oRU4yggmXu
+User: intercooleronli
+Sentiment: pos
+Tweet: The Advisory Board Company $ABCO Issues  Earnings Results https://t.co/Uojdyfi0Cf
+User: AmericanBanking
+Sentiment: pos
+Tweet: The Advisory Board Company $ABCO Issues Earnings Results https://t.co/Pv8gKjvLMU
+User: midetimes
+Sentiment: pos
+Tweet: Insider Selling: The Advisory Board Company $ABCO Insider Sells 750 Shares of Stock https://t.co/l9C2xRDOaC
+User: CFinancialNews
+Sentiment: pos
+Tweet: Lowell, #MA - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Transp... https://t.co/cHcFGusfZ4 #LOWELL #DRIVING #JOB
+User: JobsLowellMA
+Sentiment: pos
+Tweet: Columbus, #OH - ABCO Transportation - Experienced Class A CDL OTR Truck Driver - ABCO Tr... https://t.co/M0gJBr0qQy #DRIVING #COLUMBUS #JOB
+User: jobs__columbus
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABCW
+Query to be searched ABCW
+Tweet: Want to have ass rimming? Don't delay skilled brunets are waiting! Signup here! https://t.co/iPsICzaHHH https://t.co/DbdodG9zSL
+User: KaraJJ24
+Sentiment: pos
+Tweet: Good morning & happy Friday! 
+Flashback to Montreal & Shoutout to the family back home ;)… https://t.co/zSQOckmHMo
+User: Psychfra
+Sentiment: pos
+Tweet: Anchor Bancorp Wisconsin $ABCW scheduled  first quarter  earnings release  Anchor Bancorp Wisconsin one of the leading companies within #Re…
+User: CSIMarket
+Sentiment: pos
+Tweet: Trending: Gillette Mach3 Razor and 75 ml Extra Comfort Shaving Gel Gift Set for Men £2.82 @ Amazon (Add On Item) https://t.co/IMlwFCW0j4
+User: HotUKDeals
+Sentiment: pos
+Tweet: Topical Breezes ABcw 2017 05 04 at HorseShoe Lane Studios: https://t.co/Tgys8F1Xcd via @YouTube
+User: sandy0400
+Sentiment: pos
+Tweet: @1280Spence Fast and pray prob should be the top priority here :)
+User: arsports_abcw
+Sentiment: pos
+Tweet: It is the dog that eats feces, but it is the goat that develops rotten teeth.#africanproverbs #whoweare #proudAFrican Text ABCW to 33073
+User: 3wc4life
+Sentiment: pos
+Tweet: RT @3wcMcontent: When a handshake has gone beyond the elbow, it has turned to another thing. #africanproverbs #whoweare #proudAFrican Text…
+User: Ambrosia_Jei
+Sentiment: pos
+Tweet: RT @3wc4life: Don’t be like the unfortunate child that grew his first tooth and grew a decayed one. #AfricanProverbs  #AfricanCulture Text…
+User: Ambrosia_Jei
+Sentiment: pos
+Tweet: @DivStatesOfAmer @ChelseaClinton @BBCNews Tell you what. I'll help you get started. 
+
+https://t.co/plOZAtbKa9
+User: Watts533
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABCW
+Query to be searched ABCW
+Tweet: Want to have ass rimming? Don't delay skilled brunets are waiting! Signup here! https://t.co/iPsICzaHHH https://t.co/DbdodG9zSL
+User: KaraJJ24
+Sentiment: pos
+Tweet: Good morning & happy Friday! 
+Flashback to Montreal & Shoutout to the family back home ;)… https://t.co/zSQOckmHMo
+User: Psychfra
+Sentiment: pos
+Tweet: Anchor Bancorp Wisconsin $ABCW scheduled  first quarter  earnings release  Anchor Bancorp Wisconsin one of the leading companies within #Re…
+User: CSIMarket
+Sentiment: pos
+Tweet: Trending: Gillette Mach3 Razor and 75 ml Extra Comfort Shaving Gel Gift Set for Men £2.82 @ Amazon (Add On Item) https://t.co/IMlwFCW0j4
+User: HotUKDeals
+Sentiment: pos
+Tweet: Topical Breezes ABcw 2017 05 04 at HorseShoe Lane Studios: https://t.co/Tgys8F1Xcd via @YouTube
+User: sandy0400
+Sentiment: pos
+Tweet: @1280Spence Fast and pray prob should be the top priority here :)
+User: arsports_abcw
+Sentiment: pos
+Tweet: It is the dog that eats feces, but it is the goat that develops rotten teeth.#africanproverbs #whoweare #proudAFrican Text ABCW to 33073
+User: 3wc4life
+Sentiment: pos
+Tweet: RT @3wcMcontent: When a handshake has gone beyond the elbow, it has turned to another thing. #africanproverbs #whoweare #proudAFrican Text…
+User: Ambrosia_Jei
+Sentiment: pos
+Tweet: RT @3wc4life: Don’t be like the unfortunate child that grew his first tooth and grew a decayed one. #AfricanProverbs  #AfricanCulture Text…
+User: Ambrosia_Jei
+Sentiment: pos
+Tweet: @DivStatesOfAmer @ChelseaClinton @BBCNews Tell you what. I'll help you get started. 
+
+https://t.co/plOZAtbKa9
+User: Watts533
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisAAWW
+Query to be searched AAWW
+Tweet: @penultimagent Aaww thanks man
+User: t3nsaitchi
+Sentiment: neg
+Tweet: @mellomeup @planetjedward @YouNow Aaww love you too! ??
+User: JedPV
+Sentiment: pos
+Tweet: @Cimorelliband @LisaCim @AmyCim @LaurenCimorelli @DaniCim @ChristinaCIM @KathCim AAWW MY ANGELS ??
+User: cimorelliworldx
+Sentiment: pos
+Tweet: @AuntieEmz @PinkOrigamiOwl @Larkonman @A_Kabaker @femmefatale23 @Vermigs @kylacovert @funkyblue4 Aaww thanks Auntie!
+User: FeedMyNerds
+Sentiment: pos
+Tweet: @kenzieziegler Aaww I wish you were there too!!?
+User: Arely_Alvarez_
+Sentiment: pos
+Tweet: @osakataehyung Aaww thanks ?
+User: btssavedme1306
+Sentiment: neg
+Tweet: aaww Marcus just came to visit. He's grandparents are staying over and he brought me some ice cream. He's so cute.
+User: CabellosEffect
+Sentiment: pos
+Tweet: RT @diversebooks: Check out this panel at the Asian American Writers Workshop in NYC on May 18! https://t.co/Eke0Dl64ab
+User: SIBookDragon
+Sentiment: pos
+Tweet: @MiniKaal @DiamondOG__ aaww fuck wrong tweet
+User: TJekzo
+Sentiment: pos
+Tweet: RT @diversebooks: Check out this panel at the Asian American Writers Workshop in NYC on May 18! https://t.co/Eke0Dl64ab
+User: UraniaSmith
+Sentiment: pos
+The number of Positive tweets 8
+The number of Negative tweets 2
+twitter analysisAAWW
+Query to be searched AAWW
+Tweet: @penultimagent Aaww thanks man
+User: t3nsaitchi
+Sentiment: neg
+Tweet: @mellomeup @planetjedward @YouNow Aaww love you too! ??
+User: JedPV
+Sentiment: pos
+Tweet: @Cimorelliband @LisaCim @AmyCim @LaurenCimorelli @DaniCim @ChristinaCIM @KathCim AAWW MY ANGELS ??
+User: cimorelliworldx
+Sentiment: pos
+Tweet: @AuntieEmz @PinkOrigamiOwl @Larkonman @A_Kabaker @femmefatale23 @Vermigs @kylacovert @funkyblue4 Aaww thanks Auntie!
+User: FeedMyNerds
+Sentiment: pos
+Tweet: @kenzieziegler Aaww I wish you were there too!!?
+User: Arely_Alvarez_
+Sentiment: pos
+Tweet: @osakataehyung Aaww thanks ?
+User: btssavedme1306
+Sentiment: neg
+Tweet: aaww Marcus just came to visit. He's grandparents are staying over and he brought me some ice cream. He's so cute.
+User: CabellosEffect
+Sentiment: pos
+Tweet: RT @diversebooks: Check out this panel at the Asian American Writers Workshop in NYC on May 18! https://t.co/Eke0Dl64ab
+User: SIBookDragon
+Sentiment: pos
+Tweet: @MiniKaal @DiamondOG__ aaww fuck wrong tweet
+User: TJekzo
+Sentiment: pos
+Tweet: RT @diversebooks: Check out this panel at the Asian American Writers Workshop in NYC on May 18! https://t.co/Eke0Dl64ab
+User: UraniaSmith
+Sentiment: pos
+The number of Positive tweets 8
+The number of Negative tweets 2
+twitter analysisAAVL
+Query to be searched AAVL
+Tweet: RT @FIirtationship: this makes my heart so happy ?? https://t.co/geSy2Zpgnc
+User: _aavl
+Sentiment: pos
+Tweet: Strong support at $2.20ish. Hoping for $2.60?s in a few weeks. https://t.co/b1eZeSH1i2 $AAU $AAV $AAVL $AAWW $AAXJ $ABAC
+User: DieselStocks
+Sentiment: pos
+Tweet: We only started weaning this little one today! Can you guess what happened? It was frigging… https://t.co/zSqVgkNT9A
+User: Mother_Freckle
+Sentiment: pos
+Tweet: @darthvader666uk voted hot on WD My passport Ultra 1TB Yellow label @ Tesco Abbey Centre - £18 https://t.co/M886RqlPVo #HUKD
+User: darthvader666uk
+Sentiment: pos
+The number of Positive tweets 4
+The number of Negative tweets 0
+twitter analysisABCD
+Query to be searched ABCD
+Tweet: RT @BostonABCD: Ribbon cutting ceremony opening ABCD #HeadStart #southendboston w/ @marty_walsh @lebronjames… https://t.co/BNrzBcUR0G
+User: joshyoungABCD
+Sentiment: pos
+Tweet: RT @BostonABCD: Thank you to @CardinalSean for your support in helping ABCD open a #HeadStart in #southendboston… https://t.co/upvNZ3Jlqv
+User: joshyoungABCD
+Sentiment: pos
+Tweet: Thank you to @CardinalSean for your support in helping ABCD open a #HeadStart in #southendboston… https://t.co/upvNZ3Jlqv
+User: BostonABCD
+Sentiment: pos
+Tweet: https://t.co/8G1VzryNFO updates Cambium Learning Group https://t.co/CgQP0xYCu4 price 5.01 to 5.30
+User: socialcss_dow
+Sentiment: pos
+Tweet: RT @Moviepicts: “You’re young. You don’t know why you do things. But there’s always a reason.” Palo Alto (2013) https://t.co/B9zsVCwOgF
+User: gelay_abcd
+Sentiment: pos
+Tweet: Ribbon cutting ceremony opening ABCD #HeadStart #southendboston w/ @marty_walsh @lebronjames… https://t.co/BNrzBcUR0G
+User: BostonABCD
+Sentiment: pos
+Tweet: It's official! A whole month with no hot water taking showers in odd places. Soon great help from, #ABCD in Boston, will arrive.
+User: vejigante
+Sentiment: pos
+Tweet: #Cambium Learning Group $ABCD #stock  #investing For the first quarter #Two Harbors Investment earnings turn positive  at $0.21 per share, …
+User: CSIMarket
+Sentiment: pos
+Tweet: @KewlPink Miss u
+User: gelay_abcd
+Sentiment: pos
+Tweet: ABCD 5.32 Cambium Learning Grp $ABCD Std Dev +3.27. ABCD Trading at 5.32 Day High 5.40 & Day Low 5.01 Change + https://t.co/cBuz4q4tq0
+User: clayton_dd
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisAAL
+Query to be searched AAL
+Tweet: @JordyMontell @muskeln4fun @Blazer_MUC @querico26 @Gabriel_AAL @OliGaySexPornX @ManulTop @Lito6405 @wyskii1 thanks man?
+User: chrisce07
+Sentiment: pos
+Tweet: RT @ToniRadjali: @Toni_Romdoni @kjunaedhie @JozefLie @liaisti15 @saya_AAL @vivinristituta @rmiryanti hoping over the river 
+of blooming vio…
+User: liaisti15
+Sentiment: pos
+Tweet: RT @chrisce07: @JordyMontell @muskeln4fun @Blazer_MUC @querico26 @Gabriel_AAL @OliGaySexPornX @ManulTop @Lito6405 @wyskii1 nice boy https:/…
+User: hache_mon
+Sentiment: pos
+Tweet: @TopBoi1983 @ArunasHotma @tbcbr1982 @UlisesSan295 @Lito6405 @OliGaySexPornX @Gabriel_AAL @MaleMassageGay @viscery… https://t.co/0qfD1QRYlV
+User: OrsteinVova
+Sentiment: pos
+Tweet: @JordyMontell @muskeln4fun @Blazer_MUC @querico26 @Gabriel_AAL @OliGaySexPornX @ManulTop @Lito6405 @wyskii1 nice boy https://t.co/S9PPNlSJ9e
+User: chrisce07
+Sentiment: pos
+Tweet: RT @bvb19496Rostov: @GayBsq @muskeln4fun @ColoradSan @JordyMontell @ausguy67 @gladiator423 @67macv @querico26 @EvansManu1 @OliGaySexPornX @…
+User: Michaeljc1979
+Sentiment: pos
+Tweet: Strider vs. Maple Helicopter: https://t.co/6VPOeugohI via @YouTube
+User: wabbitstewed
+Sentiment: pos
+Tweet: @GayBsq @muskeln4fun @ColoradSan @JordyMontell @ausguy67 @gladiator423 @67macv @querico26 @EvansManu1… https://t.co/qbxRj1gmTB
+User: bvb19496Rostov
+Sentiment: pos
+Tweet: @ColoradSan @GayBsq @bicumluver @OliGaySexPornX @izmirlipasifik @ausguy67 @2oger @MannMikkismeeta @TenBisexual… https://t.co/V3t8BSfLty
+User: GayTarotReading
+Sentiment: pos
+Tweet: RT @Zoya_Roy1322: @jigisays @Core_VDian Aal this that too when he is emotionally weak now. Perverted RDians
+User: JaneMerliah
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
+twitter analysisABAC
+Query to be searched ABAC
+Tweet: Dinner time @ ABaC Restaurant & Hotel https://t.co/vTKd2CTOnX
+User: winkyhelada
+Sentiment: pos
+Tweet: Hmu when ABAC gets a campus shuttle https://t.co/5E6salXR8Q
+User: hmallison
+Sentiment: neg
+Tweet: RT @abacus: New on our blog: the Abacus primer on why you should be excited for Same-Day #ACH. How’d we do, @michaelherd? https://t.co/aV7u…
+User: CrunchFund
+Sentiment: pos
+Tweet: RT @kidehen: How #Virtuoso7 leverages a #SemanticWeb for sophisticated security that’s easily packed into #ODBC and #SQL data access. #RDBM…
+User: OpenLink
+Sentiment: pos
+Tweet: An authorization library that supports access control models like ACL, RBAC, ABAC https://t.co/KkRrekVeU3 May 5, 2017 at 02:08PM
+User: cloudgeario
+Sentiment: pos
+Tweet: We are delighted to offer to the market this charming three bedroom cottage for sale.
+https://t.co/vBYEa4YIsy… https://t.co/h1XeJYoF6P
+User: AbacusEstates
+Sentiment: pos
+Tweet: RT @Evan_Lin: hsluoyz/casbin: An authorization library that supports access control models like ACL, RBAC, ABAC #golang https://t.co/EE8a69…
+User: jchs86
+Sentiment: pos
+Tweet: How #Virtuoso7 leverages a #SemanticWeb for sophisticated security that’s easily packed into #ODBC and #SQL data ac… https://t.co/mwbVoFbx1R
+User: kidehen
+Sentiment: pos
+Tweet: New on our blog: the Abacus primer on why you should be excited for Same-Day #ACH. How’d we do, @michaelherd?… https://t.co/MF49GpbdqT
+User: abacus
+Sentiment: pos
+Tweet: Not that leaving my ABAC people was easy ?
+User: RainCantrell
+Sentiment: pos
+The number of Positive tweets 9
+The number of Negative tweets 1
+twitter analysisAAOI
+Query to be searched AAOI
+Tweet: @jimcramer AAOI, should I sell or buy more?  Moved BIGLY today.  Best optical networking play?
+User: makaufmann
+Sentiment: pos
+Tweet: RT @sitifatimahnet: Technology - Top Gainers / Losers as of 3:00 pm https://t.co/83jXnyPXQX $SYX $OLED $DAIO $AAOI #sitifatimah #malaysia #…
+User: TMAN1138pm
+Sentiment: pos
+Tweet: AAOI 55.34 Applied Optoelect Cmn $AAOI Std Dev +3.05. AAOI Trading at 55.34 Day High 55.74 & Day Low 48.50 Cha https://t.co/f2sKUge9aw
+User: clayton_dd
+Sentiment: pos
+Tweet: https://t.co/8G1VzryNFO updates Inc. Applied Optoelectronics https://t.co/dVpwdNBBpe price 46.81 to 55.96
+User: socialcss_dow
+Sentiment: pos
+Tweet: CONGRATS TO ALL WHO BANKED THIS WEEK. CONGRATS TO OUR CHATROOM NAILING $SHOP $AAOI $IMMU AND $SCNR. GREAT PLAYS. HA… https://t.co/6nJsRY69XH
+User: MagnetPointeLTD
+Sentiment: pos
+Tweet: RT @RobInTheBlack: $AAOI $OLED getting the job doen today off the #Gapperlist
+User: DrewZeitlin
+Sentiment: pos
+Tweet: Today's rally for $AAOI may be: 1.) Part of 1 last stab towards $60 before rollover (bear), 2.) Scaling the right side of a new base (bull).
+User: egrywalski
+Sentiment: pos
+Tweet: Having been enjoying the skyrocketing trend with $AAOI $SHOP
+User: ExploreTheTrade
+Sentiment: pos
+Tweet: today's pocket pivots https://t.co/hgVZFcybQz #stocks $EXAS $EVRI $AAOI
+User: ChartMill
+Sentiment: pos
+Tweet: $AAOI  our members own it , will add it more next week. This is a good stock !
+User: LinYingjun
+Sentiment: pos
+The number of Positive tweets 10
+The number of Negative tweets 0
